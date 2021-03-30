@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sand94.github.io
+Token: 7c80f4b20a177b025c853e824e0202c38b23e70b3909f44fc6d3d1ceea42aefc
