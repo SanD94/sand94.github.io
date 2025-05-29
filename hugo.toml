@@ -1,0 +1,4 @@
+baseURL = 'https://sand94.github.io'
+languageCode = 'en-us'
+title = 'Haritalama'
+theme = 'ananke'
