@@ -1,7 +1,7 @@
 +++
 date = '2025-05-29T14:01:27+02:00'
 draft = false
-title = 'Anlamsizliklar'
+title = 'Anlamsızlıklar'
 +++
 
 Bu yazı kendisini iki farklı kişiliğe ayırıp bunları arka taş olarak konumlandırmış bir kişi tarafından yazıldı. Birincil olarak belirlenen kişilik, müdakkik (M), durumu düşünce dünyasında ele alan ama eylem dünyasında hakkı olmayan biri iken ikinci kişilik, Sâlik (S), eylem dünyasında var olan ve tecrübelerini M ile paylaşan biri olarak tanımlandı.

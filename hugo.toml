@@ -4,7 +4,8 @@ title = 'Haritalama'
 theme = 'ananke'
 
 [params]
-body_classes = 'avenir bg-near-white'
-post_content_classes = 'avenir bg-near-white'
+show_reading_time = true
+body_classes = 'roboto-mono-full bg-near-white'
+post_content_classes = 'roboto-mono-full bg-near-white'
 recent_posts_number = 3
 custom_css = ['custom.css']
