@@ -9,3 +9,8 @@ body_classes = 'roboto-mono-full bg-near-white'
 post_content_classes = 'roboto-mono-full bg-near-white'
 recent_posts_number = 3
 custom_css = ['custom.css']
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+journal = "journals"

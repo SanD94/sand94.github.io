@@ -2,6 +2,8 @@
 date = '2025-05-29T13:28:25+02:00'
 draft = true
 title = 'My First Post'
+tags = ["todo", "to-be-done"]
+journals = ["academy"]
 +++
 
 ## Introduction

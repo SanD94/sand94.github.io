@@ -7,3 +7,20 @@
   font-style: normal;
   font-size: medium;
 }
+
+.roboto-mono-tag {
+  font-family: 'Roboto Mono', monospace;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-size: x-small;
+  text-transform: lowercase;
+}
+
+
+.tag-color {
+  color: rgb(200, 0, 100) !important;
+}
+
+.journal-color {
+  color: rgb(150, 20, 100) !important;
+}
