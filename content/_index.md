@@ -1,3 +1,3 @@
 +++
-featured_image = '/images/cover_panel.jpg'
+featured_image = '/images/cover_panel.png'
 +++

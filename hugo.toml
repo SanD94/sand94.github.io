@@ -6,7 +6,7 @@ theme = 'ananke'
 [params]
 show_reading_time = true
 body_classes = 'roboto-mono-full bg-near-white'
-featured_image_class = 'contain bg-center bg-orange'
+featured_image_class = 'cover-center bg-center bg-sand'
 cover_dimming_class = 'bg-black-10'
 post_content_classes = 'roboto-mono-full bg-near-white'
 recent_posts_number = 3

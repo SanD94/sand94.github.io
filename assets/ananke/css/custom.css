@@ -16,3 +16,10 @@
   text-transform: lowercase;
 }
 
+.cover-center {
+  background-size: auto 235%;
+}
+
+.bg-sand {
+  background-color: #613d16;
+}
