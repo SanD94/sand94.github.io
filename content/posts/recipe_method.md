@@ -16,4 +16,4 @@ The recipe I've written is both end and beginning—my conclusion is your starti
 
 *: with the help of LLM.
 
-**: this version of the essay is itself one iteration in the cycle. You (or future me) might read this essay, struggle with its ideas, internalize them, forget them, and eventually write their own version that becomes *their* recipe of method. The essay embodies what it describes.
+**: this version of the essay is itself one iteration in the cycle. You (or future me) might read this essay, struggle with its ideas, internalize them, forget them, and eventually write your own version that becomes *your* recipe of method. The essay embodies what it describes.
